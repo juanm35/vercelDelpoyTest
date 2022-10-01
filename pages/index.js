@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to Vercel Deploy Test
+          Welcome to Vercel Deploy Test2
         </h1>
 
         <p className="description">
